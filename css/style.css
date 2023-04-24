@@ -30,13 +30,6 @@
   text-align: center;
 }
 
-.nav-list-2 {
-  display: flex;
-  justify-content: space-evenly;
-  padding-bottom: 60px;
-  padding-top: 60px;
-}
-
 .navbar {
   background-color: #141d2e;
 }
@@ -123,6 +116,13 @@ footer p {
 
 .icon-link svg {
   color: #141d2e;
+}
+
+.nav-list-2 a {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 60px;
+  padding-top: 60px;
 }
 
 .container div {
