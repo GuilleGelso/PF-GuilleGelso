@@ -125,6 +125,10 @@ footer p {
   padding-top: 60px;
 }
 
+.form-control {
+  resize: none;
+}
+
 .container div {
   margin-right: 5px;
   margin-left: 5px;
